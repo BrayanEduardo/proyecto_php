@@ -7,6 +7,6 @@
 </head>
 <body>
     <center><h1>Bendiciones "Feliz Día"</h1></center>
-    
+   <button><a href="index.php">Volver atras</a></button> 
 </body>
 </html>
