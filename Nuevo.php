@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <center><h1>Hola Mundo</h1></center>
-  <a href="ejemplo1.php">Calcular Salario</a>
-  <a href="Nuevo.php">NUEVO</a>
+    <center><h1>Bendiciones "Feliz Día"</h1></center>
 </body>
-
 </html>
