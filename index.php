@@ -8,5 +8,6 @@
 <body>
     
     <center><h1>Hola Mundo</h1></center>
+    <a href="ejemplo1">PROMEDIOS</a>
 </body>
 </html>
